@@ -1,0 +1,4 @@
+# Ignore dynamic libraries
+*.so
+*.dylib
+*.dll
